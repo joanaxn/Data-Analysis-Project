@@ -70,7 +70,7 @@ Models tested:
 
 - Decision Tree
 - Random Forest
-- Gradient Boosting ✅ (best overall)
+- Gradient Boosting 
 - K-Nearest Neighbors
 - Support Vector Classifier (SVC)
 - Naive Bayes
@@ -92,7 +92,7 @@ Models tested:
 
 - Decision Tree Regressor
 - Random Forest Regressor
-- Gradient Boosting Regressor ✅ (best)
+- Gradient Boosting Regressor 
 - KNN Regressor
 - Neural Network Regressor
 - Ridge Regression
@@ -144,12 +144,4 @@ A Streamlit interface is included to:
 - **Scikit-learn**
 - **Streamlit**
 
----
 
-## How to Run
-
-> Make sure you have Python installed (3.9+ recommended).
-
-1) Install dependencies:
-```bash
-pip install -r requirements.txt
